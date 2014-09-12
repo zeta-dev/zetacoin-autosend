@@ -18,6 +18,7 @@ clone this repository
 go to zetacoin-autosend directory and compile project
 
 `cd zetacoin-autosend`
+
 `mvn clean install`
 
 This will produce and executable jar in zetacoin-autosend-job directory name zetacoin-autosend.jar. This is the executable jar.
