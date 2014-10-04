@@ -1,5 +1,6 @@
 Zetacoin AutoSend
 =================
+[![Gitter](https://badges.gitter.im/Join Chat.svg)](https://gitter.im/zbad405/zetacoin-autosend?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
 
 Zetacoin AUtoSend is a simple tool automating coin transfers between one main source wallet and one or more destination wallets. With given configuration saved in autosend.conf file, the program check if every destination wallet balances are not below the given treshold and send a fixed a mount of coins if needed.
 
